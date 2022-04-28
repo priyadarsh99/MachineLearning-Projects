@@ -6,4 +6,4 @@
 
 3.) Titanic Project Using Logistic Regression as well as SVM Model .(Note: Dealing with missing values by removing those rows) 
 
-4.) Using Median to Fill the Missing Values in Titanic Project Using Logistic Regression as well as SVM Model.
+4.) "Using Median to Fill the Missing Values" in Titanic Project Using Logistic Regression as well as SVM Model.
